@@ -1,0 +1,24 @@
+/* images sizing */
+
+.img-size {
+    height: 250px;
+}
+
+
+/* toggle spinner */
+
+#spinner {
+    margin: 25%;
+    margin-top: 10%;
+    margin-left: 45%;
+    display: none;
+}
+
+
+/* Media query */
+
+@media (max-width: 768px) {
+    .input-text {
+        width: 80% !important;
+    }
+}
